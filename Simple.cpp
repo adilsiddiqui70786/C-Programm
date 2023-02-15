@@ -1,7 +1,7 @@
 //Simply display the Strings - Hello coder
 
 
-#include<iostream>                       //Used for the i/o operation..
+#include<iostream>                       //Used for the i/o operation...
 using namespace std;
 
 int main()                                //Executing start..
