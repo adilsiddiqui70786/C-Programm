@@ -1,6 +1,4 @@
 //Simply display the Strings
-
-
 #include<iostream>                       //Used for the i/o operation...
 using namespace std;
 
