@@ -1,4 +1,4 @@
-//display adding the 7 and 5 using varibles and datatype
+//display adding the 7 and 5 using varibles and datatype..
 #include <iostream>
 using namespace std;
 int main() 
