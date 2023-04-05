@@ -1,4 +1,4 @@
-//Adding the p and m value 
+//Adding the p and m value ..
 #include<iostream>
 using namespace std;
 int main()
